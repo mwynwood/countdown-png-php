@@ -1,8 +1,12 @@
 <?php
-// Creates a PNG image with a countdown to an event
-// Usage: png.php?date=2022-12-25&event=Christmas
-// Marcus Wynwood (MarcusTeachUs.com)
-// 2022-10-21
+/* Creates a PNG image with a countdown to an event
+ * https://github.com/mwynwood/countdown-png-php
+ *
+ * Usage: png.php?date=2022-12-25&event=Christmas
+ *
+ * Marcus Wynwood (MarcusTeachUs.com)
+ * 2022-10-21
+ */
 
 date_default_timezone_set("Australia/Hobart");
 
